@@ -1,4 +1,4 @@
-# COVID-19-Detection-Using-Ensemble-Learning
+# Automatic COVID-19-Detection-From- CXR-images-Using-Ensemble-Learning
 
 This repository contains all the necessary scripts used for data preparation, model training and building the GUI App.
 
